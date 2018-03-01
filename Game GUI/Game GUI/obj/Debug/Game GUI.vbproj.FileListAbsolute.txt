@@ -1,0 +1,15 @@
+D:\Game GUI\Game GUI\bin\Debug\Game GUI.exe.config
+D:\Game GUI\Game GUI\bin\Debug\Game GUI.exe
+D:\Game GUI\Game GUI\bin\Debug\Game GUI.pdb
+D:\Game GUI\Game GUI\bin\Debug\Game GUI.xml
+D:\Game GUI\Game GUI\obj\Debug\Game GUI.vbprojResolveAssemblyReference.cache
+D:\Game GUI\Game GUI\obj\Debug\Game_GUI.Form1.resources
+D:\Game GUI\Game GUI\obj\Debug\Game_GUI.Resources.resources
+D:\Game GUI\Game GUI\obj\Debug\Game GUI.vbproj.GenerateResource.Cache
+D:\Game GUI\Game GUI\obj\Debug\Game GUI.exe
+D:\Game GUI\Game GUI\obj\Debug\Game GUI.xml
+D:\Game GUI\Game GUI\obj\Debug\Game GUI.pdb
+D:\Game GUI\Game GUI\bin\Debug\Game.dll
+D:\Game GUI\Game GUI\bin\Debug\Game.pdb
+D:\Game GUI\Game GUI\bin\Debug\Game.xml
+D:\Game GUI\Game GUI\obj\Debug\Game_GUI.EvenLog.resources
